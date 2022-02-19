@@ -1,6 +1,7 @@
 {
     "name": "brezel/recipe-parser",
     "description": "Parser for the Recipe language",
+    "version": "0.1.0",
     "type": "library",
     "require": {
         "antlr/antlr4-php-runtime": "^0.6.0"
