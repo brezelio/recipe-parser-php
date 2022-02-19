@@ -1,0 +1,20 @@
+{
+    "name": "brezel/recipe-parser",
+    "description": "Parser for the Recipe language",
+    "type": "library",
+    "require": {
+        "antlr/antlr4-php-runtime": "^0.6.0"
+    },
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Brezel\\Recipe\\Parser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keanu Buschbacher",
+            "email": "flynamicobserver@gmail.com"
+        }
+    ]
+}
